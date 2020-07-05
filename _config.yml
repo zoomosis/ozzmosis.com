@@ -5,5 +5,8 @@ markdown: kramdown
 title: ozzmosis.com
 description: andrew clarke
 
+minima:
+  date_format: "%a %Y-%m-%d %H:%M"
+
 plugins:
   - jekyll-feed
