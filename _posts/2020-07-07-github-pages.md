@@ -27,7 +27,7 @@ issued by [Let's Encrypt](https://letsencrypt.org/).
 Many domain registrars also provide [free e-mail
 hosting](https://docs.gandi.net/en/gandimail/index.html) for domains registered
 with them. Combine this with free web hosting on GitHub Pages means you can
-quickly easily set up a web site and email address for just the cost of a
+quickly and easily set up a web site and email address for just the cost of a
 domain name (approx AU$25/year), with a domain name you control.
 
 The advantage of using your own domain name means it's portable. In the
