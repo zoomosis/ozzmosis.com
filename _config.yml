@@ -1,6 +1,7 @@
 #theme: jekyll-theme-midnight
 theme: minima
 markdown: kramdown
+timezone: Australia/Melbourne
 
 title: ozzmosis.com
 description: andrew clarke
