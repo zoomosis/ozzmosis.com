@@ -32,7 +32,7 @@ domain name (approx AU$25/year), with a domain name you control.
 
 The advantage of using your own domain name means it's portable. In the
 unlikely event GitHub Pages is discontinued I can host my web site elsewhere
-and keep using the same domain name. I can also choose to move my e-mail
+and keep using the same web site address. I can also choose to move my e-mail
 hosting elsewhere, keeping the same e-mail address.
 
 I've since learned [Netlify](https://www.netlify.com/) provides free hosting
