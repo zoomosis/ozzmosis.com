@@ -7,8 +7,9 @@ Some months back I'd taken my blog offline, but it's now hosted on [GitHub
 Pages](https://pages.github.com/).
 
 I'd known about their free web hosting but was unaware it was possible (and
-common!) to use a CNAME DNS record to map to a GitHub Pages site. For this
-blog, the important lines in the DNS record for ozzmosis.com were:
+common!) to use a CNAME DNS record to map to a GitHub Pages site using a
+[custom domain](https://docs.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site).
+For my blog, the important lines in the DNS record for ozzmosis.com were:
 
 ```
 @ 3600 IN ALIAS zoomosis.github.io.
