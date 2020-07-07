@@ -5,3 +5,4 @@ _site
 .bundle
 vendor
 .jekyll-cache
+favicon.ico
