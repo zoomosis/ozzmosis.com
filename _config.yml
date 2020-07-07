@@ -6,6 +6,8 @@ timezone: Australia/Melbourne
 title: ozzmosis.com
 description: andrew clarke
 show_excerpts: true
+twitter_username: zoomosis
+github_username: zoomosis
 
 minima:
   date_format: "%a %Y-%m-%d %H:%M"
