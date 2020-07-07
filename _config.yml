@@ -5,6 +5,7 @@ timezone: Australia/Melbourne
 
 title: ozzmosis.com
 description: andrew clarke
+show_excerpts: true
 
 minima:
   date_format: "%a %Y-%m-%d %H:%M"
