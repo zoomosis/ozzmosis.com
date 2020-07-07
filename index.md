@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="img/z.png" width="55" height="52" align="right">
