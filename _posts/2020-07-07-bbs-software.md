@@ -20,3 +20,5 @@ historical value. Some software was closed-source "shareware", which was common
 at the time. And some of it is a bit hard to find now.
 
 [http://blizzard.ozzmosis.com/bbs/](http://blizzard.ozzmosis.com/bbs/)
+
+<img src="/img/maximus-1.0.png" alt="Maximus 1.0">

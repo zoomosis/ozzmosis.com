@@ -3,7 +3,7 @@ layout: post
 title:  Blog hosted on GitHub Pages
 date:   2020-07-07 07:07:07 +1000
 ---
-<img src="/img/github-logo.png" width=250 height=250 alt="GitHub logo">
+<img src="/img/github-logo.png" width=150 height=150 alt="GitHub logo">
 
 Some months back I'd taken my blog offline, but it's now hosted on [GitHub
 Pages](https://pages.github.com/):
