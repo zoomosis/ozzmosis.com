@@ -3,8 +3,12 @@ layout: post
 title:  Blog hosted on GitHub Pages
 date:   2020-07-07 07:07:07 +1000
 ---
+<img src="/img/github-logo.png" width=250 height=250 alt="GitHub logo">
+
 Some months back I'd taken my blog offline, but it's now hosted on [GitHub
-Pages](https://pages.github.com/).
+Pages](https://pages.github.com/):
+
+<img src="/img/github-pages-settings.png" width=623 height=465 alt="GitHub Pages Settings">
 
 I'd known about their free web hosting but was unaware it was possible (and
 common!) to use a CNAME DNS record to map to a GitHub Pages site using a
